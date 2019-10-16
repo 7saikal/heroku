@@ -1,5 +1,5 @@
 body{
-  background-image: url(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi87NG-1ZzlAhUPCjQIHVCoBrEQjRx6BAgBEAQ&url=http%3A%2F%2Fwww.ox.ac.uk%2Fnews%2F2016-04-28-friends-better-morphine&psig=AOvVaw0KGVpCctxgzyBc0YImbKwY&ust=1571174008539201);
+  background-image: url("../routing/images.readme/friends_main.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -8,7 +8,7 @@ body{
 
 .jumbotron {
   background-color: skyblue;
-  color: white;
+  color: darkblue;
   opacity: .75;
   margin-top: 20px;
 }
@@ -18,11 +18,11 @@ body{
 }
 
 #jumbo_h2 {
-  color: white;
+  color: darkblue;
 }
 
 .btn-primary {
-  color: #fff;
+  color: darkblue;
   background-color: #337ab7;
   border-color: #2e6da4;
 }

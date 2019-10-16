@@ -10,8 +10,18 @@ module.exports=[
         photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pierre-Person.jpg/220px-Pierre-Person.jpg"
     },
     {
-        scores:[1,2,2,4,3,1,3,2,1,2], 
-        name: "Angel",
-        photo: ""
+        scores:[1,1,1,1,1,1,1,1,1,1], 
+        name: "Oprah",
+        photo: "https://www.rollingstone.com/wp-content/uploads/2019/09/oprah.jpg?resize=900,600&w=450"
+    },
+    {
+        scores:[5, 1, 4, 4, 5, 1, 2, 5, 4, 1], 
+        name: "Angelina",
+        photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtX1Fj9frGlVbqv-ZkHLIxgxEkqGEeiVy11TqQbd5m_Z-uwmRZ"
+    },
+    {
+        scores: [5,5,5,5,5,5,5,5,5,5], 
+        name: "Tony",
+        photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjJIPWS0XjE3iHI1aaM7mhqNmk6ZZAEApqp26l8mrpf60zTR4D"
     },
 ]
