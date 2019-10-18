@@ -1,5 +1,5 @@
 body{
-  background-image: url("../routing/images.readme/friends_main.jpg");
+  background-image: url("./friends_main.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;

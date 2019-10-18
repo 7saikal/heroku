@@ -6,6 +6,8 @@ var bodyParser = require ("body-parser");
 //Seed data for "database"
 // var friends = require('./app/data/friends.js');
 var app = express();
+app.use(express.static("public"));
+
 var PORT = process.env.PORT || 8080; //Sets an initial port.
 //Makes static assets in the public folder available (style.css)
 app.use(bodyParser.json());
